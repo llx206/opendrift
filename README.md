@@ -12,3 +12,5 @@ OpenDrift is a software for modeling the trajectories and fate of objects or sub
 ![OpenDrift animation](https://dl.dropboxusercontent.com/s/u9apyh7ci1mdowg/opendrift.gif?dl=0)
 
 [Documentation and installation instructions can be found here](https://opendrift.github.io/install.html).
+
+test git
